@@ -1,4 +1,3 @@
-
 <resources>
     <string name="app_name">Walkthrough</string>
 
@@ -16,9 +15,6 @@
 
     <string name="my_preference">com.abc.com.MyPref</string>
     <string name="my_preference_key">com.abc.com.MyPrefKey</string>
-
-
-
 
 
 </resources>

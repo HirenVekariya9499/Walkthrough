@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent" android:layout_height="match_parent"
-    android:background="@color/color_slide1"
-    android:id="@+id/first_slide">
+    android:background="@color/color_slide4"
+    android:id="@+id/fourth_slide">
 
     <ImageView
-        android:id="@+id/image1"
+        android:id="@+id/image4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:src="@drawable/image1"
+        android:src="@drawable/image4"
         android:layout_marginTop="50dp"
         android:layout_alignParentTop="true"/>
 
@@ -17,9 +17,9 @@
         android:id="@+id/text1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/image1"
-        android:text="Feeling hungry?"
-        android:textColor="@color/colorPrimaryDark"
+        android:layout_below="@+id/image4"
+        android:text="Guaranteed Satisfaction"
+        android:textColor="@color/active"
         android:textSize="25sp"
         android:textStyle="bold"
         android:layout_marginTop="64dp"
@@ -31,12 +31,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/text1"
-        android:text="cure your hunger pangs with our innovative approach  by satisfying ur tummy demands"
+        android:text="Our team has worked day and night to make sure you get the best of everything."
         android:textColor="@color/active"
-        android:textSize="18sp"
+        android:textSize="17sp"
         android:layout_marginTop="2dp"
         android:layout_marginLeft="32dp"
         android:layout_marginRight="32dp"
         android:gravity="center"
         />
+
 </RelativeLayout>
