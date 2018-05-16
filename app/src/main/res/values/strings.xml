@@ -1,0 +1,24 @@
+
+<resources>
+    <string name="app_name">Walkthrough</string>
+
+    <string name="slide_1_title">aaa</string>
+    <string name="slide_1_desc">sadfghjkl</string>
+
+    <string name="slide_2_title">aaa</string>
+    <string name="slide_2_desc">sadfghjkl</string>
+
+    <string name="slide_3_title">aaa</string>
+    <string name="slide_3_desc">sadfghjkl</string>
+
+    <string name="slide_4_title">aaa</string>
+    <string name="slide_4_desc">sadfghjkl</string>
+
+    <string name="my_preference">com.abc.com.MyPref</string>
+    <string name="my_preference_key">com.abc.com.MyPrefKey</string>
+
+
+
+
+
+</resources>
